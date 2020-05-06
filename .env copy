@@ -6,3 +6,7 @@
 # 3 Make sure to not commit this file.
 
 SAMPLE_ENV_VAR=i-am-an-environment-variable
+SLS_DEBUG=*
+AWS_SDK_LOAD_CONFIG=1
+AWS_CONFIG_FILE=C:\.aws\config
+AWS_SHARED_CREDENTIALS_FILE=C:\.aws\credentials
